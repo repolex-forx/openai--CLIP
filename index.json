@@ -1,0 +1,11 @@
+{
+  "org": "openai",
+  "repo": "CLIP",
+  "versions": [
+    {
+      "commit": "d05afc436d78f1c48dc0dbf8e5980a9d471f35f6",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:22:19.007568+00:00"
+    }
+  ]
+}
