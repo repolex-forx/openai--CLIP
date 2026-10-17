@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/openai/CLIP/commit/d05afc436d78f1c48dc0dbf8e5980a9d471f35f6",
       "git:hexsha": "d05afc436d78f1c48dc0dbf8e5980a9d471f35f6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
